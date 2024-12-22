@@ -47,5 +47,7 @@ The app uses a `UITabBarController` to manage navigation between different secti
 Each view controller is connected via **storyboards** and **outlets**, ensuring that UI elements such as buttons, labels, and text views are linked to the corresponding functionality in the code.
 
 **ScreenShots->**
+![1](https://github.com/user-attachments/assets/838222b0-b33a-4e8c-b787-1ba1dbd9ee1f)
+
 
 
